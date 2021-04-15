@@ -10,3 +10,6 @@ todo: break down a short list of fundamental goals. Each goal has title and brie
 - minimal required knowledge
 - optional incremental improvements.
 - works with existing tooling (oas, json schema, etc.)
+
+Who are pleasant apis good for?
+- people with data
