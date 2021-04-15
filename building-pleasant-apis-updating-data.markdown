@@ -9,3 +9,4 @@ talk about updating data with the id, and where the id goes
 talk about the difference between query and request body
 talk about the format of the request body
 talk about what should be returned
+talk about headers
