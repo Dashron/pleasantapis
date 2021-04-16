@@ -1,6 +1,7 @@
 ---
 title: Building Pleasant APIs - Making changes
 date: 2021-04-14 23:16:00 -04:00
+parent: Building Pleasant APIs
 ---
 
 Talk about breaking vs. non-breaking change. Don't talk about "know your consumers", we're helping people who don't have that info. talk about the understandings that make the data pleasant.
