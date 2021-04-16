@@ -1,5 +1,5 @@
 ---
-title: Building Pleasant APIs - Managing Change
+title: Building Pleasant APIs - Making changes
 date: 2021-04-14 23:16:00 -04:00
 ---
 
