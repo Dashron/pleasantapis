@@ -11,8 +11,10 @@ A response comes in three parts
 - Response Body
 - Headers
 
+First we'll walk through a series of common successful and unsuccessful responses. Once you've read those, feel free to jump right to the [detailed reference](#reference).
+
 ## Common Successful Responses
-The following are some common successful responses, and how they should be formatted
+If everything is O.K. with the clients request, the server must return one of the following successful responses.
 
 ### Creating new resources
 
@@ -23,7 +25,7 @@ The following are some common successful responses, and how they should be forma
 ### Deleting content
 
 ## Common Failed Responses
-The following are some common unsuccessful responses, and how they should be formatted
+If the server chooses to reject the request for any reason, they must return one of the following responses.
 
 #### The client can not access this resource
 
