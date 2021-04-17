@@ -11,8 +11,29 @@ A response comes in three parts
 - Response Body
 - Headers
 
-Below I'll describe common 
+## Common Successful Responses
+The following are some common successful responses, and how they should be formatted
 
+### Creating new resources
+
+### Immediately successful responses
+
+### Responses that will be successful in the future
+
+### Deleting content
+
+## Common Failed Responses
+The following are some common unsuccessful responses, and how they should be formatted
+
+#### The client can not access this resource
+
+#### The server can't find the requested resource
+
+#### The server doesn't understand the request
+
+#### Rate limit exceeded
+
+#### Unknown error
 
 ## Reference
 ### Status Codes
