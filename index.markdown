@@ -3,6 +3,9 @@ title: Pleasant APIs
 layout: home
 ---
 
+This website describes a specific style that when followe will create pleasant APIs. You will find examples alongside implementation details to help design your own.
+
+
 todo: break down a short list of fundamental goals. Each goal has title and brief description. Each goal links to a dedicated page for that goal with details and examples.
 
 - consistent
