@@ -10,6 +10,26 @@ todo: break down a short list of fundamental goals. Each goal has title and brie
 - minimal required knowledge
 - optional incremental improvements.
 - works with existing tooling (oas, json schema, etc.)
+Support progressive enhancement.
+Support documentation.
+Start small, easily grow as you need (progressive enhancement)
+Support oas
+Adhere to standards
+Minimal, consistent rules
+Minimal cognitive load
+Consistency
+
+
+Favs for creators:
+Consistent
+Easy to learn
+Easy to use where your users are
+Easy to Support
+
+Favs for users:
+Consistent, intuitive
+Easy to learn
+easy to use where I need it
 
 Who are pleasant apis good for?
 - people with data
