@@ -6,10 +6,10 @@ parent: Building Pleasant APIs
 
 Generally when a client makes a request to your API, they expect some sort of response.
 
-A response comes in three parts
-- Status Code
-- Response Body
-- Headers
+An HTTP response comes in three parts
+- The status Code
+- A response Body
+- A collection of headers
 
 First we'll walk through a series of common successful and unsuccessful responses. Once you've read those, feel free to jump right to the [detailed reference](#reference).
 
