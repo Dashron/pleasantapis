@@ -3,36 +3,27 @@ title: Pleasant APIs
 layout: home
 ---
 
+## Welcome!
+
 This website describes a specific style that when followed will create pleasant APIs. You will find examples alongside implementation details to help design your own.
 
 
-todo: break down a short list of fundamental goals. Each goal has title and brief description. Each goal links to a dedicated page for that goal with details and examples.
+### Build a Pleasant API
+Pleasant APIs are easy to build and support
+ - Consistent:
+ - Supports progressive enhancement: 
+ - Respects standards: 
 
-- consistent
-- break the rules instead of bend them (don't try to make your api fit, if it doesn't, use something else). Solves most use cases not all. Starting with pleasant APIs gives you the foundation to expand, and removes one step in the design process.
-- minimal required knowledge
-- optional incremental improvements.
-- works with existing tooling (oas, json schema, etc.)
-Support progressive enhancement.
-Support documentation.
-Start small, easily grow as you need (progressive enhancement)
-Support oas
-Adhere to standards
-Minimal, consistent rules
-Minimal cognitive load
-Consistency
+Learn how to build a Pleasant API
 
 
-Favs for creators:
-Consistent
-Easy to learn
-Easy to use where your users are
-Easy to Support
 
-Favs for users:
-Consistent, intuitive
-Easy to learn
-easy to use where I need it
+### Use a Pleasant API
+You can trust that a Pleasant API will be easy to work with.
+ - Consistent: everything works the same way so 
+ - Incremental: You can start with the minimal knowledge. Complex features are available when you're ready
+ - Respects Standards
+ - Clear errors, with clear follow up actions
 
-Who are pleasant apis good for?
-- people with data
+
+Learn how to use a Pleasant API
