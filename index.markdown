@@ -20,6 +20,7 @@ Learn how to build a Pleasant API
 
 ### Use a Pleasant API
 You can trust that a Pleasant API will be easy to work with.
+ - Useful: gives you what you need
  - Consistent: everything works the same way so 
  - Incremental: You can start with the minimal knowledge. Complex features are available when you're ready
  - Respects Standards
