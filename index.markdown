@@ -5,26 +5,11 @@ layout: home
 
 ## Welcome!
 
-This website describes a specific style that when followed will create pleasant APIs. You will find examples alongside implementation details to help design your own.
+Build a pleasant API for yourself, and for your users.
 
-
-### Build a Pleasant API
-Pleasant APIs are easy to build and support
- - Consistent:
- - Supports progressive enhancement: 
- - Respects standards: 
-
-Learn how to build a Pleasant API
-
-
-
-### Use a Pleasant API
-You can trust that a Pleasant API will be easy to work with.
- - Useful: gives you what you need
- - Consistent: everything works the same way so 
- - Incremental: You can start with the minimal knowledge. Complex features are available when you're ready
- - Respects Standards
- - Clear errors, with clear follow up actions
-
-
-Learn how to use a Pleasant API
+todo: arrange these differently
+- Easy to Build - The fundamentals are simple and straightforward in most frameworks. {how to build a pleasant API}
+- Easy to Use - Pleasant APIs just work. {how to use a pleasant API}
+- Easy to Learn - Learning means Documentation, and Pleasant APIs are easy to document, with or without using standards like OAS {how to document a pleasant API}
+- Easy to Maintain - You'll be supporting your API for longer than you build it, and pleasant APIs ensure that your life is hassle free. {managing the lifecycle of your API}
+- Easy to Grow - Get out the door with a basic API and then add the more complex features *when you need them*. Everything is incremental. {upgrading your API}
