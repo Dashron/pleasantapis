@@ -5,3 +5,8 @@ permalink: "/building-apis"
 has_children: 3
 ---
 
+### Build a Pleasant API
+Pleasant APIs are easy to build and support
+ - Consistent:
+ - Allows you to incrementally grow your API:
+ - Respects standards: 
